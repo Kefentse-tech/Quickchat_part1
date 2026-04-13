@@ -28,6 +28,7 @@ String storeUsername;
        
     }
     
+    
     //Method to check password complexity
     public boolean checkPasswordComplexity (String password){
         boolean haveLength= password.length()>=8 ;
