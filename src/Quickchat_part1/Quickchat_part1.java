@@ -43,6 +43,7 @@ String storeUsername;
         }
     }
     
+    
     //Cell PhoneNumber
     public boolean checkphoneNumber (String phoneNumber){
         if(phoneNumber.length()== 11 && phoneNumber.startsWith("+27") && phoneNumber.matches (".*[0-9].*")); {
