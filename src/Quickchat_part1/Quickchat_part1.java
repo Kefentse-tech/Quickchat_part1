@@ -53,6 +53,7 @@ String storeUsername;
              
      } 
 
+    
 // we are creating the registeruser method so the user can enter the required registration
  void registerUser(){
  
